@@ -29,6 +29,6 @@ public class Ejercicio3 {
         for (int multiplo : multiplos) {
             System.out.println(multiplo);
         }
-        System.out.println("Suma de los múltiplos: " + suma);
+        System.out.println("La suma de los múltiplos es: " + suma);
     }
 }
