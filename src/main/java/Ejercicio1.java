@@ -18,6 +18,6 @@ public class Ejercicio1 {
         int meses = 0;
         int dias = 0;
         long segundos = calcularSegundos(anos, meses, dias);
-        System.out.println("El numero de segundos en " + anos + " año es: " + segundos);
+        System.out.println("El número de segundos en " + anos + " año es: " + segundos);
     }
 }
